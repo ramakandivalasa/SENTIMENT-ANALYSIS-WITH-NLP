@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-# 📌 Project Title: PERFORM SENTIMENT ANALYSIS ON A DATASET OF CUSTOMER REVIEWS USING TF-IDF VECTORIZATION AND LOGISTIC REGRESSION
+## 📌 Project Title: PERFORM SENTIMENT ANALYSIS ON A DATASET OF CUSTOMER REVIEWS USING TF-IDF VECTORIZATION AND LOGISTIC REGRESSION
 
 ## 🔍 Objective
 Perform sentiment classification on airline-related tweets using Natural Language Processing (NLP) techniques. This project uses **TF-IDF Vectorization** and a **Logistic Regression** classifier to identify whether a tweet expresses a **positive**, **neutral**, or **negative** sentiment.
