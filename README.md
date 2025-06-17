@@ -61,7 +61,6 @@ The model performs multi-class classification with reasonable accuracy. Further 
 ```bash
 pip install -r requirements.txt
 jupyter notebook sentiment_analysis.ipynb
-```bash
 exit
 ---
 
