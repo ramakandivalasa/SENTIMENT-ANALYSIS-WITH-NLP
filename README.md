@@ -55,16 +55,7 @@ Perform sentiment classification on airline-related tweets using Natural Languag
 The model performs multi-class classification with reasonable accuracy. Further tuning or deep learning could improve results.
 
 ---
-
-## 🚀 How to Run
-
-```bash
-pip install -r requirements.txt
-jupyter notebook sentiment_analysis.ipynb
-exit
-
-
-# **Output**
+# Output
 
 text airline_sentiment
 0                @VirginAmerica What @dhepburn said.           neutral
