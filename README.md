@@ -62,7 +62,9 @@ The model performs multi-class classification with reasonable accuracy. Further 
 pip install -r requirements.txt
 jupyter notebook sentiment_analysis.ipynb
 
-# Output
+---
+
+## Output
 
 text airline_sentiment
 0                @VirginAmerica What @dhepburn said.           neutral
