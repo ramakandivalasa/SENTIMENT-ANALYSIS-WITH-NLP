@@ -78,5 +78,5 @@ Classification Report:
     accuracy                           0.78      2928
    macro avg       0.74      0.65      0.68      2928
 weighted avg       0.77      0.78      0.77      2928
-
+![Image](https://github.com/user-attachments/assets/d3bfa069-0ec1-410d-86dc-6423d89c69b8)
 
